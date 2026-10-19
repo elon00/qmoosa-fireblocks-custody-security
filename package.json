@@ -1,0 +1,10 @@
+{
+  "name": "qmoosa-fireblocks-custody-security",
+  "version": "0.1.0",
+  "dependencies": {
+    "fireblocks-sdk": "^5.14.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
